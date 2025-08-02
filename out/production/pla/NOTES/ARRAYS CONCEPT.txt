@@ -1,0 +1,28 @@
+ARRAYS CONCEPT
+
+
+
+1.Arrays.binarysearch(arrayname, element)--- for the binary search the array must be sorted for this menthod to be done
+
+2.Arrays.toString(arrayname)--- for printing an array with the square brackets
+
+3.Arrays.sort(arrayname)--- for sorting any array
+
+4.arrayname.getClass().getSimpleName()--- used to find the datatype of an array
+
+5.Arrays.copyOf(arrayname,newlength or length )--- if the length id more than the original array then the element will be filled with 0
+
+6.Arrays.copyOfRange(arrayname,startlength,endlength)--- copy the array inside the given index
+
+7.Arrays.equals(arrayname,newarray)--- checks the whether the two arrays are equal or not
+
+8.Arrays.fill(newarrayname, element_to_fill)--- the given element will be filled in the new array created completly in all the index
+
+9.Arrays.setAll(arrayname, expression on index value)--- sets the each value based on the lambda value(->)
+
+10.Arrays.hashCode(arrayname)--- gives the hash code of the given array
+
+11.Arrays.mismatch(arrayname, new arrayname)--- gives the index where the array is not matching 
+
+12.Arrays.parallelSort(arrayname)--- it divides the large array into a two subarray and merge it and gives the sorted array  consume less time and space 
+

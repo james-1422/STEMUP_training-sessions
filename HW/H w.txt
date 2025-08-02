@@ -1,0 +1,52 @@
+31/07/2025 H w
+
+1. find the row having max ele
+
+2. print spiral form
+
+3. search the ele given and print its index
+
+4. rotate the matrix into 90degree clockwise
+
+5. sum of two matrix in 3rd matrix
+
+
+
+01/08/2025 H W
+
+
+1. Check if glven year is leap year or not in linkedlist
+
+2. check if numbers in linkedlist are Armstrong number or not
+
+3.Remove the whitespacas in a string linkedlist
+
+4.count number of even and odd in linkedlist
+
+5.Traverse through each elaments in Linkedlist and Create a new Linked list using factorial values of previous linkedlist
+
+
+02/08/2025  H W
+
+1.Task Manager[LinkedList/Stack/Queue]
+         1.Add tasks
+         2,Remove tasks
+         3. Modify tasks
+         4.List tasks
+         5.Exit
+
+2.Currency Calculator
+        1. Rupees to USD
+        2, USD to Rupees
+        3. Rupees to Euro
+        4. Euro to Rupees
+        5. Exit
+
+
+3. Student Management System[Linkedlist/Stack/Queue]
+        1.Add Student
+        2.Remove Student
+        3.List Students
+        4.Modify Details
+        5.Search Student
+        6,Exit

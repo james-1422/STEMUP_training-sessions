@@ -1,0 +1,8 @@
+//MULTIDIMENSIONAL ARRAY (OR) TW0 DIMENSIONAL ARRAY
+
+1. what is 2D array
+ ---- 2D the array it consists of rows and columns to store the value
+int[][] arrayname=new int[][];
+
+2.diff b/w 1D and 2D array
+ ---- 

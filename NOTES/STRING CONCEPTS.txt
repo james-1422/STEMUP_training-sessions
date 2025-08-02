@@ -1,0 +1,52 @@
+STRING CONCEPTS
+
+//string is a non-primitive datatype
+
+1. length of string--- Stringname.length();
+
+2.character at the particular index--- stringname.charAt(index);
+
+3.to create a substring--- stringname.substring(index); --- stringname.substring(start_index,end_index);
+
+4.convert to the uppercase--- stringname.toUpperCase();
+
+5.convert to lowercase--- stringname.toLowerCase();
+
+6.to trim the leading and end spaces--- stringname.trim();
+
+7.replace characters--- stringname.replace('present character','replace character');
+
+8.check that string contains--- stringname.contains("string");--- it returns the answer in Boolean format
+
+9.check if it starts with--- stringname.startsWith("string");--- it returns the answer in Boolean format
+
+10.check if it ends with--- stringname.endsWith("string");--- it returns the answer in Boolean format
+
+11.find the index of first occurance of "character"--- stringname.indexOf('charcter');
+
+12.find last index of "character" occuring--- stringname.lastIndexOf('charcter');	
+
+13.check the equals between the two strings--- stringname.equals(another-stringname/ "string");--- returns answer in Boolean format
+
+14.check the equals between the two strings by ignoring the string case--- stringname.equalsIgnoreCase("another-stringname/ "string");--- returns answer in Boolean format
+
+15.to check whether the string is empty or not--- stringname.isEmpty();--- return answer in Boolean format
+
+16.to split the string---- stringname.split("any character or space");--- for printing it we use the for loop by shifting it into the array 
+            String[] split=str.split("e");//input=welcome java
+        System.out.println("the splited strings parts : ");
+        for(String parts:split){
+            System.out.println(" "+parts);
+        }// w
+         // lcom
+         // java
+
+18.to convert from string to character array--- stringname.toCharArray();--- need to use for loop to print the array
+
+19.to concatenate the two strings--- stringname.concat("string"/stringname);
+
+20.to check whether the character is a letter or not--- Character.isLetter(charactername);
+
+
+
+17.
