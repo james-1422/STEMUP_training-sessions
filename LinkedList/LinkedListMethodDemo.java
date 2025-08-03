@@ -29,10 +29,7 @@ public class LinkedListMethodDemo {
 //if we pass the blank the it returns the error
         System.out.println();
 
-        System.out.println(list
-        );
-
-
+        System.out.println(list);
         System.out.println();
 
         //GET methods
